@@ -1,0 +1,22 @@
+{
+  "name": "bowling",
+  "version": "1.0.0",
+  "description": "Bowling Kata (functional variant)",
+  "main": "index.js",
+  "author": {
+    "email": "kidwell.bill@gmail.com",
+    "name": "Bill Kidwell"
+  },
+  "scripts": {
+    "test": "mocha src/**/*.test.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "sinon": "^6.1.3"
+  }
+}
